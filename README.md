@@ -1,7 +1,7 @@
 ## Hello, Im Dymitry 👋
 <a href=https://www.linkedin.com/in/dymitry-pougoum-804191317/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a current college student with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
